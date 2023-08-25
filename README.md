@@ -3,11 +3,12 @@
 - 🌱 I’m currently learning GCP and AWS, Docker and K8S
 - 💞️ I’m looking to collaborate on AWS(Lambda, CloudFormation, SES, SQS, ECR, ECS, EC2, ApiGateway, CDK & SDK, CodePipeline, CodeCommit, Route53, ElasticBeanstalk,CloudWatch,DynamoDb and RDS, Cognito) And GCP, Docker, K8S for a long time.
 - Main Languages
-   -  Javascript (Node.js, ESNext, React.js, Vue.js, jQuery)
+   -  Javascript (Node.js, ESNext, React.js, Vue.js, jQuery, Web3)
    -  Python (Django, Flask)
    -  Golang (Gin-Gonic, Bee)
    -  Typescript (Angular, Nest.js, Typescript 3.x+)
    -  Ruby (RoR 4+)
+   -  Smart Contract and Solidity with Web3
    -  Basic Web Programming (HTML, CSS, Spa)
  
 
