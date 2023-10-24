@@ -9,8 +9,8 @@
    -  Typescript (Angular, Nest.js, Typescript 3.x+)
    -  Ruby (RoR 4+)
    -  Smart Contract and Solidity with Web3
-   -  Basic Web Programming (HTML, CSS, Spa)
- 
+   -  Basic Web Programming (HTML, CSS, Spa) 
+   -  Mobile (iOS-swiftui, ReactNative)
 
 ✨  Thank you for your collaboration! ✨
 <!---
